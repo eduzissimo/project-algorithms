@@ -21,8 +21,3 @@ Resolução de problemas/Otimização algoritmos sob pressão.
 
 ---
 
-* 6.4 - A função deverá, por meio de análise empírica, se comportar (no avaliador remoto em sua Pull Request) como no máximo O(n), ou seja, com complexidade assintótica linear.
-
-</details>
-
----
